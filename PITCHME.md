@@ -10,6 +10,9 @@
 
 - Warm up: loosen muscles
 - Stretching: increase flexibility
+
+---
+
 - Examples of warm up:
    - Runner: light jog.
    - Martial arts: few light kicks and punches. 
