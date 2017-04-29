@@ -36,7 +36,7 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ## 2013
 <br>
-<img src="http://strivingforfreedom.com/wp-content/uploads/2014/04/captainamerica.jpg" width="600" height="600"/> <!-- .element: class="fragment" -->
+<img src="http://strivingforfreedom.com/wp-content/uploads/2014/04/captainamerica.jpg" width="600" height="450"/> <!-- .element: class="fragment" -->
 
 ---
 
