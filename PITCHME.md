@@ -44,7 +44,7 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ---
 
-<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="300"> <!-- .element: class="fragment" --> <img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="300"> <!-- .element: class="fragment" --> <img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="300">
+<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="300"> <!-- .element: class="fragment" --> <img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="300"> <!-- .element: class="fragment" --> <img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="300"> <!-- .element: class="fragment" -->
 
 ---
 
