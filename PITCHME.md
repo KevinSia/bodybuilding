@@ -4,12 +4,13 @@
 
 ## WHAT IS BODY BUILDING
 
-smart use of progressive resistance exercise for controlling and developing one's musculature.
+---
+
+![Image-Absolute](https://www.funnypica.com/wp-content/uploads/2015/06/Funny-Bodybuilding-Pictures-29-570x499.jpg)
 
 ---
 
-<img src="https://www.funnypica.com/wp-content/uploads/2015/06/Funny-Bodybuilding-Pictures-29-570x499.jpg" />
-
+smart use of progressive resistance exercise for controlling and developing one's musculature.
 
 ---
 
