@@ -30,7 +30,7 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ## 20th century
 <br />
-<img src="http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg" width="425"/> <!-- .element: class="fragment" --> <img src="https://www.popworkouts.com/wp-content/uploads/2014/08/Sylvester-Stallone-Workout-For-Rambo.jpg" width="425" height="475"/> <!-- .element: class="fragment" -->
+<img src="http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg" width="425"/> <!-- .element: class="fragment" --> <img src="https://images.moviepilot.com/image/upload/c_fill,h_470,q_auto:good,w_620/j3wfh1duwzmabjkhsfal.jpg" width="425"/> <!-- .element: class="fragment" -->
 
 ---
 
@@ -46,19 +46,19 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ## Reason 1: Happiness
 <br>
-<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="700" height="700"> <!-- .element: class="fragment" --> 
+<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="700" height="550"> <!-- .element: class="fragment" --> 
 
 ---
 
 ## Reason 2: Your Marriage
 <br>
-<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="700" height="700"> <!-- .element: class="fragment" --> 
+<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="700" height="600"> <!-- .element: class="fragment" --> 
 
 ---
 
 ## Reason 3: Mind
 <br>
-<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="700" height="700"> <!-- .element: class="fragment" -->
+<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="700" height="650"> <!-- .element: class="fragment" -->
 
 ---
 
