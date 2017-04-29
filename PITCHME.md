@@ -30,13 +30,21 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ## 20th century
 <br />
-<img src="http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg" width="425" height="425"/> <!-- .element: class="fragment" --> <img src="https://www.popworkouts.com/wp-content/uploads/2014/08/Sylvester-Stallone-Workout-For-Rambo.jpg" width="425" height="425"/> <!-- .element: class="fragment" -->
+<img src="http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg"/> <!-- .element: class="fragment" --> <img src="https://www.popworkouts.com/wp-content/uploads/2014/08/Sylvester-Stallone-Workout-For-Rambo.jpg" width="425" height="475"/> <!-- .element: class="fragment" -->
 
 ---
 
 ## 2013
 <br>
 <img src="http://strivingforfreedom.com/wp-content/uploads/2014/04/captainamerica.jpg" width="600" height="450"/> <!-- .element: class="fragment" -->
+
+---
+
+# WHY BODYBUILDING?
+
+---
+
+
 
 ---
 
