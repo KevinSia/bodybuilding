@@ -1,7 +1,7 @@
 ## Common Body-building Myths
 
----?image=assets/myth1.jpg
-
+---
+![myth1](assets/myth1.jpg)
 ---
 
 ### Myth
@@ -30,6 +30,8 @@ Vegetable calories are more slowly digested
 
 Give you required energy without elevated blood sugar
 
+---
+![myth2](assets/myth2.jpg)
 ---
 
 ### Myth
@@ -136,9 +138,9 @@ Muscle Size != Muscle Strength
 Able to exert more force in shorter period
 
 +++
-
-Boxer Image vs Weightlifer Imager
----
+![myth-boxer](assets/myth5-1.jpg)
++++
+![myth-boxer](assets/myth5-2.jpg)
 
 
 
