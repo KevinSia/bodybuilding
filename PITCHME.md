@@ -1,4 +1,11 @@
 ## BODYBUILDING 
+---
+
+## Bodybuilding 101
+<br>
+1. Story of Bodybuilding <!-- .element: class="fragment" -->
+2. 5 myths about Bodybuilding <!-- .element: class="fragment" -->
+3. Tips on Bodybuilding <!-- .element: class="fragment" -->
 
 ---
 
@@ -52,13 +59,13 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ## Reason 2: Your Marriage
 <br>
-<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="700" height="475"> <!-- .element: class="fragment" --> 
+<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="700" height="450"> <!-- .element: class="fragment" --> 
 
 ---
 
 ## Reason 3: Mind
 <br>
-<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="700" height="500"> <!-- .element: class="fragment" -->
+<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="700" height="450"> <!-- .element: class="fragment" -->
 
 ---
 
