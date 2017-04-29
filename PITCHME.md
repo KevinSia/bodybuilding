@@ -8,7 +8,7 @@
 
 ## WHAT IS BODY BUILDING
 <br />
-smart use of progressive resistance exercise for controlling and developing one's musculature.
+smart use of progressive resistance exercise for controlling and developing one's musculature. <!-- .element: class="fragment" -->
 
 ---
 
@@ -44,7 +44,21 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ---
 
-<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="300"> <!-- .element: class="fragment" --> <img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="300"> <!-- .element: class="fragment" --> <img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="300"> <!-- .element: class="fragment" -->
+## Reason 1: Happiness
+<br>
+<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg"> <!-- .element: class="fragment" --> 
+
+---
+
+## Reason 2: Your Marriage
+<br>
+<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif"> <!-- .element: class="fragment" --> 
+
+---
+
+## Reason 3: Mind
+<br>
+<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif"> <!-- .element: class="fragment" -->
 
 ---
 
