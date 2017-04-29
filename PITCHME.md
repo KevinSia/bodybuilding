@@ -1,5 +1,7 @@
 ## Common Body-building Myths
 
+---?image=assets/myth1.jpg
+
 ---
 
 ### Myth
@@ -133,6 +135,9 @@ Muscle Size != Muscle Strength
 
 Able to exert more force in shorter period
 
++++
+
+Boxer Image vs Weightlifer Imager
 ---
 
 
