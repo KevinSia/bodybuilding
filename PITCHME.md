@@ -138,6 +138,7 @@ Muscle Size != Muscle Strength
 Able to exert more force in shorter period
 
 +++?image=assets/myth5-1.jpg
+
 +++?image=assets/myth5-2.jpg
 
 
