@@ -22,6 +22,17 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ---
 
+## late 19th century
+
+![Image](https://wolfandiron.com/wp-content/uploads/2014/07/Eugene-Sandow-Perfect-Male-Form.jpg)
+
+---
+
+## 20th century
+
+## ![Image](http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg)
+---
+
 ### WHAT IS THIS? 
 
 You can't gain muscle by eating vegetables
