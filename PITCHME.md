@@ -1,15 +1,43 @@
-#### Test 1
-<br>
-<span style="color:gray">Gitpitch</span>
-<br>
-<span style="color:gray">on</span>
-<br>
-<span style="color:gray">GitHub, GitLab and Bitbucket</span>
+## Common Body-building Myths
 
 ---
 
-### GitPitch turns <span style="color: #e49436; text-transform: none">PITCHME.md</span> into interactive, online slideshows.
-<br>
-<span style="color:gray; font-size:0.6em;">[ JUST LIKE THIS ONE ]</span>
+### You can't gain muscle by eating vegetables
 
 ---
+
+**Requirements to gain muscles**
+
+- Stimulus(Workout)
+- Nutrients
+- Calories
+
+---
+
+##### False
+
+Vegetables contain all the nutrients and calories needed
+
+---
+
+### You lose muscle if you don't workout
+
+---
+
+Why do we need to workout in the first place?
+
+---
+
+##### Process of Muscle Creation
+
+1. Person works out<!-- .element: class="fragment" -->
+2. Body thinks "We are doing strenous activty! Need to make more muscles!" <!-- .element: class="fragment" -->
+3. Body generates muscles from stores of nutrients/proteins
+
+---
+
+
+
+
+
+
