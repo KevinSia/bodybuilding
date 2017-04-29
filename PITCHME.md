@@ -46,19 +46,19 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ## Reason 1: Happiness
 <br>
-<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg"> <!-- .element: class="fragment" --> 
+<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="700" height="700"> <!-- .element: class="fragment" --> 
 
 ---
 
 ## Reason 2: Your Marriage
 <br>
-<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif"> <!-- .element: class="fragment" --> 
+<img src="http://i717.photobucket.com/albums/ww173/prestonjjrtr/Funny/CarDrivesRock.gif" width="700" height="700"> <!-- .element: class="fragment" --> 
 
 ---
 
 ## Reason 3: Mind
 <br>
-<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif"> <!-- .element: class="fragment" -->
+<img src="https://bretcontreras.com/wp-content/uploads/giphy.gif" width="700" height="700"> <!-- .element: class="fragment" -->
 
 ---
 
