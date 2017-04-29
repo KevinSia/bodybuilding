@@ -2,15 +2,23 @@
 
 ---
 
-## WHAT IS BODY BUILDING
-
----
-
 ![Image-Absolute](https://www.funnypica.com/wp-content/uploads/2015/06/Funny-Bodybuilding-Pictures-29-570x499.jpg)
 
 ---
 
+## WHAT IS BODY BUILDING
+<br />
 smart use of progressive resistance exercise for controlling and developing one's musculature.
+
+---
+
+## HOW DID IT BECOME A THING?
+
+---
+
+## 1880 - 1985
+
+![Image](https://s-media-cache-ak0.pinimg.com/originals/7b/a6/be/7ba6befa1bf409c7de3604b4ca62a09d.png)
 
 ---
 
