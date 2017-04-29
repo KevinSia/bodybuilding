@@ -29,8 +29,8 @@ smart use of progressive resistance exercise for controlling and developing one'
 ---
 
 ## 20th century
+<img src="http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg" width="425"/> <!-- .element: class="fragment" --> <img src="https://www.popworkouts.com/wp-content/uploads/2014/08/Sylvester-Stallone-Workout-For-Rambo.jpg" width="425"/> <!-- .element: class="fragment" -->
 
-![Image](http://www.borntoworkout.com/wp-content/uploads/2015/12/Arnold-Schwarzenegger-Body.jpg) <!-- .element: class="fragment" --> ![Image](https://www.popworkouts.com/wp-content/uploads/2014/08/Sylvester-Stallone-Workout-For-Rambo.jpg) <!-- .element: class="fragment" -->
 ---
 
 ### WHAT IS THIS? 
