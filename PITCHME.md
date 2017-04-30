@@ -48,7 +48,8 @@ smart use of progressive resistance exercise for controlling and developing one'
 ---
 
 ### Reason 1: Happiness
-<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="700" height="450"> <!-- .element: class="fragment" --> 
+<img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="700" height="450" /> <!-- .element: class="fragment" --> 
+
 
 ---
 
