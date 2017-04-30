@@ -2,7 +2,11 @@
 
 ---
 
-### Resting 
+### Resting
+
+Between each reps, each workout day.
+<br>
+Rule of thumb: If you're too tired, don't force yourself.
 
 ---
 
@@ -21,14 +25,31 @@
 
 ---
 
+### Dieting
+Know the number of grams of carb, protein and fat you consume
+<br>
+But there's something more important: Water
+---
 ### Tracking
 
 Weight gained! But muscles or fat?
 <br>
-Apps: 
+
 ---
 
-### Dieting
+### Why tracking?
+<br>
+to know you're on the right track (pun not intended)
+
+---
+
+### What to track?
+
+- Your body size (selfie <3)
+- Your body size (exact measurement)
+- The weights that you have lifted
+- No. of reps
+- Diet 
 
 ---
 
