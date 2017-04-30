@@ -25,6 +25,8 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ![Image](https://s-media-cache-ak0.pinimg.com/originals/7b/a6/be/7ba6befa1bf409c7de3604b4ca62a09d.png)
 
+---
+
 ### late 19th century
 
 ![Image](https://wolfandiron.com/wp-content/uploads/2014/07/Eugene-Sandow-Perfect-Male-Form.jpg)
@@ -38,7 +40,6 @@ smart use of progressive resistance exercise for controlling and developing one'
 ---
 
 ### 2013
-<br>
 <img src="http://strivingforfreedom.com/wp-content/uploads/2014/04/captainamerica.jpg" width="600" height="450"/> <!-- .element: class="fragment" -->
 
 ---
@@ -49,7 +50,6 @@ smart use of progressive resistance exercise for controlling and developing one'
 
 ### Reason 1: Happiness
 <img src="https://www.drugs.com/images/pills/nlm/004068315.jpg" width="700" height="450" /> <!-- .element: class="fragment" --> 
-
 
 ---
 
